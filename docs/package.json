@@ -56,11 +56,11 @@
     "@types/resize-observer-browser": "^0.1.7",
     "@types/styled-components": "^5.1.15",
     "@types/uuid": "^8.3.1",
-    "axios": "^0.27.2",
+    "axios": "^1.13.5",
     "babel-plugin-inline-react-svg": "^1.1.2",
     "babel-plugin-styled-components": "^2.0.7",
     "babel-preset-gatsby": "^2.17.0",
-    "browser-sync": "^2.27.9",
+    "browser-sync": "^3.0.0",
     "check-links": "^1.1.8",
     "copy-to-clipboard": "^3.3.1",
     "downshift": "^6.1.7",
@@ -69,7 +69,7 @@
     "fontfaceobserver": "^2.1.0",
     "fs-extra": "^9.1.0",
     "fuzzaldrin-plus": "^0.6.0",
-    "gatsby": "^4.11.1",
+    "gatsby": "^5.14.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-create-client-paths": "^4.9.0",
     "gatsby-plugin-google-gtag": "^4.9.0",
@@ -124,6 +124,6 @@
     "use-resize-observer": "^8.0.0",
     "uuid": "^8.3.2",
     "vfile-reporter": "^7.0.5",
-    "webpack": "^5.76.0"
+    "webpack": "^5.98.0"
   }
 }
